@@ -2,4 +2,9 @@ Sweet beast yowling nonstop the whole night or lie on your belly and purr when y
 
 change change change
 
+<<<<<<< HEAD
 one more time
+=======
+
+new-line change
+>>>>>>> new-line
